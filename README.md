@@ -22,15 +22,6 @@
   </a>
 
   <h3 align="center">Codewars Challenges</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://django--library.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/ismaelabujadur/codewars/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ismaelabujadur/codewars/issues">Request Feature</a>
-  </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
