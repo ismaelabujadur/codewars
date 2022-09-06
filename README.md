@@ -57,6 +57,8 @@ List of challenges:
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) -> [kata-3.js](kata-3.js)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) -> [kata-4.js](kata-4.js)
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) -> [kata-5.js](kata-5.js)
+- [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) -> [kata-6.js](kata-6.js)
+- [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) -> [kata-7.js](kata-7.js)
 
 
 <!-- LICENSE -->
