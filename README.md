@@ -59,6 +59,8 @@ List of challenges:
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) -> [kata-5.js](kata-5.js)
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) -> [kata-6.js](kata-6.js)
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) -> [kata-7.js](kata-7.js)
+- [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) -> [kata-8.js](kata-8.js)
+- [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) -> [kata-9.js](kata-9.js)
 
 
 <!-- LICENSE -->
