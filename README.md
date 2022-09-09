@@ -61,6 +61,8 @@ List of challenges:
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) -> [kata-7.js](kata-7.js)
 - [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) -> [kata-8.js](kata-8.js)
 - [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) -> [kata-9.js](kata-9.js)
+- [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) -> [kata-10.js](kata-10.js)
+- [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) -> [kata-11.js](kata-10.js)
 
 
 <!-- LICENSE -->
