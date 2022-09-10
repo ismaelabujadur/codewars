@@ -64,7 +64,7 @@ List of challenges:
 - [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) : [kata10](kata-10.js)
 - [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) : [kata11](kata-11.js)
 - [Calculating with Functions](https://www.codewars.com/kata/526571aae218b8ee490006f4) : [kata12](kata-12.js)
-- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) : [kata12](kata-13.js)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) : [kata13](kata-13.js)
 
 
 <!-- LICENSE -->
