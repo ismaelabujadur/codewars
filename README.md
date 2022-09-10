@@ -52,19 +52,20 @@ In this project, I improved my skills as a developer by learning about different
 
 List of challenges:
 
-- [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) -> [kata-1.js](kata-1.js)
-- [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) -> [kata-2.js](kata-2.js)
-- [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) -> [kata-3.js](kata-3.js)
-- [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) -> [kata-4.js](kata-4.js)
-- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) -> [kata-5.js](kata-5.js)
-- [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) -> [kata-6.js](kata-6.js)
-- [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) -> [kata-7.js](kata-7.js)
-- [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) -> [kata-8.js](kata-8.js)
-- [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) -> [kata-9.js](kata-9.js)
-- [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) -> [kata-10.js](kata-10.js)
-- [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) -> [kata-11.js](kata-11.js)
-- [Calculating with Functions](https://www.codewars.com/kata/526571aae218b8ee490006f4) -> [kata-12.js](kata-12.js)
-  
+- [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) : [kata01](kata-1.js)
+- [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) : [kata02](kata-2.js)
+- [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) : [kata03](kata-3.js)
+- [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) : [kata04](kata-4.js)
+- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) : [kata05](kata-5.js)
+- [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) : [kata06](kata-6.js)
+- [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) : [kata07](kata-7.js)
+- [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) : [kata08](kata-8.js)
+- [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) : [kata09](kata-9.js)
+- [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) : [kata10](kata-10.js)
+- [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) : [kata11](kata-11.js)
+- [Calculating with Functions](https://www.codewars.com/kata/526571aae218b8ee490006f4) : [kata12](kata-12.js)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) : [kata12](kata-13.js)
+
 
 <!-- LICENSE -->
 
