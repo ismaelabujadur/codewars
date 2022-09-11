@@ -65,6 +65,8 @@ List of challenges:
 - [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) : [kata11](kata-11.js)
 - [Calculating with Functions](https://www.codewars.com/kata/526571aae218b8ee490006f4) : [kata12](kata-12.js)
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) : [kata13](kata-13.js)
+- [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) : [kata14](kata-14.js)
+- [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) : [kata15](kata-15.js)
 
 
 <!-- LICENSE -->
