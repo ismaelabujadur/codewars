@@ -67,7 +67,8 @@ List of challenges:
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) : [kata13](kata-13.js)
 - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) : [kata14](kata-14.js)
 - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) : [kata15](kata-15.js)
-
+- [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) : [kata16](kata-16.js)
+  
 
 <!-- LICENSE -->
 
