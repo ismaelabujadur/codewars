@@ -68,7 +68,9 @@ List of challenges:
 - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) : [kata14](kata-14.js)
 - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) : [kata15](kata-15.js)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) : [kata16](kata-16.js)
-  
+- [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) : [kata17](kata-17.js)
+- [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) : [kata18](kata-18.js)
+
 
 <!-- LICENSE -->
 
