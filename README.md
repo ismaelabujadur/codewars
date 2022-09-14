@@ -70,7 +70,7 @@ List of challenges:
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) : [kata16](kata-16.js)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) : [kata17](kata-17.js)
 - [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) : [kata18](kata-18.js)
-
+- [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) : [kata19](kata-19.js)
 
 <!-- LICENSE -->
 
