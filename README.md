@@ -72,6 +72,7 @@ List of challenges:
 - [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) : [kata18](kata-18.js)
 - [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) : [kata19](kata-19.js)
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) : [kata20](kata-20.js)
+- [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) : [kata21](kata-21.js)
 
 <!-- LICENSE -->
 
