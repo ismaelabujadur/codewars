@@ -73,6 +73,7 @@ List of challenges:
 - [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) : [kata19](kata-19.js)
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) : [kata20](kata-20.js)
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) : [kata21](kata-21.js)
+- [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) : [kata22](kata-22.js)
 
 <!-- LICENSE -->
 
