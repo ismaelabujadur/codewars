@@ -74,6 +74,8 @@ List of challenges:
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) : [kata20](kata-20.js)
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) : [kata21](kata-21.js)
 - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) : [kata22](kata-22.js)
+- [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) : [kata23](kata-23.js)
+
 
 <!-- LICENSE -->
 
