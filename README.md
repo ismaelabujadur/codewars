@@ -75,7 +75,7 @@ List of challenges:
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) : [kata21](kata-21.js)
 - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) : [kata22](kata-22.js)
 - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) : [kata23](kata-23.js)
-
+- [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) : [kata24](kata-24.js)
 
 <!-- LICENSE -->
 
