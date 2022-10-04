@@ -76,6 +76,9 @@ List of challenges:
 - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) : [kata22](kata-22.js)
 - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) : [kata23](kata-23.js)
 - [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) : [kata24](kata-24.js)
+- [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) : [kata25](kata-25.js)
+- [Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) : [kata26](kata-26.js)
+- [Distinct contiguous elements in every window of size k](https://www.codewars.com/kata/5945f0c207693bc53100006b) : [kata27](kata-27.js)
 
 <!-- LICENSE -->
 
