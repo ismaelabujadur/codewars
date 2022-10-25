@@ -79,6 +79,7 @@ List of challenges:
 - [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) : [kata25](kata-25.js)
 - [Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) : [kata26](kata-26.js)
 - [Distinct contiguous elements in every window of size k](https://www.codewars.com/kata/5945f0c207693bc53100006b) : [kata27](kata-27.js)
+- [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) : [kata28](kata-28.js)
 
 <!-- LICENSE -->
 
